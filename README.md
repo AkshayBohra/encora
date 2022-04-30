@@ -16,6 +16,7 @@ $ sudo npm -g install grunt-cli karma bower
 $ npm install
 $ bower install
 $ grunt watch
+$ After grunt watch go to build folder and click on index.html
 ```
 
 Finally, open `file:///path/to/encora/build/index.html` in your browser.
