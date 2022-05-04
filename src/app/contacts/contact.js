@@ -1,6 +1,5 @@
 angular.module('encora.contact', [
   'ui.router',
-  'placeholders',
   'ui.bootstrap'
 ])
 
